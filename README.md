@@ -8,6 +8,8 @@ The SapiensQA, or Sapiens for Questions and Answers, is a proprietary algorithm 
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install [SapiensQA](https://pypi.org/project/sapiensqa/).
 
+[Google Colab](https://colab.research.google.com/drive/16j85sR8wZrpq-8FVMj_GHBFsr_vk14og?usp=sharing) | [PyPi](https://pypi.org/project/sapiensqa/)
+
 ```bash
 pip install sapiensqa
 ```

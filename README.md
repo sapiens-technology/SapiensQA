@@ -6,7 +6,7 @@ The SapiensQA, or Sapiens for Questions and Answers, is a proprietary algorithm 
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install SapiensQA.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install [SapiensQA](https://pypi.org/project/sapiensqa/).
 
 ```bash
 pip install sapiensqa

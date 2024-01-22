@@ -307,7 +307,6 @@ print(answer)
 
 question = 'Example number 7 of any question'
 sapiensqa.printPrediction(question=question)
-
 ```
 ```bash
 Example number 5 of an answer to the question

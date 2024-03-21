@@ -1,5 +1,7 @@
 SapiensQA (Question and Answer) is a proprietary Machine Learning algorithm for creating Natural Language Processing models where the answers are previously known.
 
+<img src="https://github.com/sapiens-technology/SapiensQA/blob/main/euclidean_distance.png" alt="K-Nearest Neighbors" width="50%">
+
 # SapiensQA
 
 The SapiensQA, or Sapiens for Questions and Answers, is a proprietary algorithm distributed freely for personal and/or commercial use. It is an Artificial Intelligence code that employs Machine Learning in creating expert language models. As an expert model, SapiensQA is focused on a single type of task, which is generating ready-made answers for predefined questions. Unlike Generative AI technologies like Transformers, SapiensQA doesn't use such approaches. Instead, it  applies a simple semantic comparison based on the Euclidean distance between input tokens to replicate the registered answer linked to the question that is geometrically closest to the user's prompt. This makes it much faster than generalist models and easily executable on machines with low processing power (1 core/4 GB or less of RAM memory) without the need for a GPU. It is ideal for the building customer service chatbots, query algorithms, systems for answering questions, and semantic search in files or documents.

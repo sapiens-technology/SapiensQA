@@ -324,3 +324,6 @@ Make sure you are using the appropriate version.
 ## License
 
 This is proprietary software and its alteration and/or distribution without the developer's authorization is not permitted.
+
+<sub>Developed by Ben-Hur Varriano.</sub>
+
